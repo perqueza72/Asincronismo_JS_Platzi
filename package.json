@@ -1,0 +1,24 @@
+{
+  "name": "curso-de-asincronismo-con-javascript",
+  "version": "1.0.0",
+  "description": "Learn the basics of asincronism process in JS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perqueza72/Asincronismo_JS_Platzi.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "asyncs"
+  ],
+  "author": "Alejandro Pergueza Amaya",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/perqueza72/Asincronismo_JS_Platzi/issues"
+  },
+  "homepage": "https://github.com/perqueza72/Asincronismo_JS_Platzi#readme"
+}
