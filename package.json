@@ -4,7 +4,7 @@
   "description": "Learn the basics of asincronism process in JS",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/perqueza72/Asincronismo_JS_Platzi/issues"
   },
-  "homepage": "https://github.com/perqueza72/Asincronismo_JS_Platzi#readme"
+  "homepage": "https://github.com/perqueza72/Asincronismo_JS_Platzi#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
